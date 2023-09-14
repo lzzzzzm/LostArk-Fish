@@ -1,22 +1,22 @@
-# LostArk-Fish
+## LostArk-Fish
 
 A script based on opencv which can autofishing in LostArk
 
-# Requirement
+### Requirement
 
- ```python
-pyautogui
-pywin32
-opencv-python
+Base on python=3.8
+ ```shell
+pip install -r requirement.txt
 ```
 
-# Run
+### Run
 
-1、
+*Step 1.*
+
  ```python
  python main.py
 ```
 
-2、
+*Step 2.*
 
-Go to the lake and start to fish use ’e‘
+Go to the lake and press the keyboard e to autofish.
